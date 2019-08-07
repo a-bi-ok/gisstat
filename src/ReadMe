@@ -1,0 +1,30 @@
+/**
+
+Application Runs from - RunGISSTAT Class
+General Run Information
+Application Builds model Data from scratch.
+
+For Testing purposes Application uses pre-generated Test Data stored in system directory.
+The following information produces optimal testing results.
+COPY PASTE CHEATS==> 
+geology: NV_refgeology
+structure: NV_refstructure
+occurrence: NV_refoccurrence
+
+for ref geology selections: 
+enter 10 for first 
+enter 1 for second
+
+for ref structural selections: 
+enter 12 for first 
+enter 13 for second
+ 
+for ref occurrence selections: 
+enter 3 for first 
+enter 8 for second
+
+GeleogyParserTest_NonJU.java demonstrates system computations and display
+
+	 @gisstatHome - Application launch package
+	 * package contains RunGISSTAT class
+	 */
