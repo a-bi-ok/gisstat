@@ -1,0 +1,17 @@
+@relation TEMP
+
+@attribute rocktype {chert,limestone,ash-flowtuff,alluvium,dolostone(dolomite),conglomerate,sandstone,rhyolite,diorite}
+@attribute ' size' numeric
+@attribute ' strCount' numeric
+@attribute ' occurrence' {' Au',' null'}
+
+@data
+chert,4.990825,15,' Au'
+limestone,13.50555,11,' Au'
+ash-flowtuff,5.824861,2,' null'
+alluvium,7.881544,2,' null'
+dolostone(dolomite),11.230225,11,' null'
+conglomerate,10.10797,2,' null'
+sandstone,6.795855,6,' null'
+rhyolite,8.994119,1,' null'
+diorite,12.353074,0,' null'

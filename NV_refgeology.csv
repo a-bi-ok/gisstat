@@ -1,0 +1,49 @@
+AREA,PERIMETER,NVGEOL_DD_,NVGEOL_DD1,ORIG_LABEL,SGMC_LABEL,UNIT_LINK,SOURCE,UNIT_AGE,ROCKTYPE1,ROCKTYPE2
+252698163.26028815,2.87720216962,2531,2455,Os,Os;0,NVOs;0,NV001,Ordovician,chert,shale
+20395.70441610535,1.50398758915,2591,2523,Tts,Tts;0,NVTts;0,NV001,Middle Miocene to Late Miocene,ash-flow tuff,rhyolite
+118900299.07187517,2.58810461868,2711,2643,Ts3,Ts3;0,NVTs3;0,NV001,Late Eocene to Late Miocene,sandstone,limestone
+21223366.968132123,3.85416375995,2830,20682,Qa,Qa;0,NVQa;0,NV001,Quaternary,alluvium,mass wasting
+444843.331597031,1.17186502924,2946,2866,Qa,Qa;0,NVQa;0,NV001,Quaternary,alluvium,mass wasting
+2754961.849581076,0.10080926434,2965,2896,Tts,Tts;0,NVTts;0,NV001,Middle Miocene to Late Miocene,ash-flow tuff,rhyolite
+1229093.273625504,0.04521542264,2986,2907,Tt1,Tt1;0,NVTt1;0,NV001,Late Eocene to Middle Eocene,rhyolite,dacite
+1408239.458779187,0.05769069221,3002,2926,PPa,PPAa;0,NVPPAa;0,NV001,Pennsylvanian to Late Permian,conglomerate,limestone
+440880.8564881035,0.03153367919,3010,2938,Tts,Tts;0,NVTts;0,NV001,Middle Miocene to Late Miocene,ash-flow tuff,rhyolite
+232442.79039561868,0.02183757313,3024,2954,Ts3,Ts3;0,NVTs3;0,NV001,Late Eocene to Late Miocene,sandstone,limestone
+169910.95378905963,0.01947223531,3032,2966,Ts3,Ts3;0,NVTs3;0,NV001,Late Eocene to Late Miocene,sandstone,limestone
+1268099.095858651,0.04883906235,3073,3012,Ts3,Ts3;0,NVTs3;0,NV001,Late Eocene to Late Miocene,sandstone,limestone
+5598021.185285929,1.3008826352,3079,3016,Ts3,Ts3;0,NVTs3;0,NV001,Late Eocene to Late Miocene,sandstone,limestone
+23145974.51915378,0.55063720228,3092,3018,Ts3,Ts3;0,NVTs3;0,NV001,Late Eocene to Late Miocene,sandstone,limestone
+90706972.3661395,1.8122203067,3127,3042,Qa,Qa;0,NVQa;0,NV001,Quaternary,alluvium,mass wasting
+302252.68987602013,0.02481122936,3195,3104,Ts3,Ts3;0,NVTs3;0,NV001,Late Eocene to Late Miocene,sandstone,limestone
+1432873.507128519,0.07454020122,3231,3140,Os,Os;0,NVOs;0,NV001,Ordovician,chert,shale
+1838693.7028282855,0.07258510149,3232,3141,Dc,Dc;0,NVDc;0,NV001,Devonian,dolostone (dolomite),limestone
+2782263.2428864953,0.56136312692,3242,3151,Tr3,Tr3;0,NVTr3;0,NV001,Middle Miocene to Late Miocene,rhyolite,dacite
+1555309.1351417655,1.58099544443,3249,3156,Ts3,Ts3;0,NVTs3;0,NV001,Late Eocene to Late Miocene,sandstone,limestone
+3358391.032238612,0.08260442658,3267,3171,Os,Os;0,NVOs;0,NV001,Ordovician,chert,shale
+93357.61596518298,0.01330315253,3292,3193,Os,Os;0,NVOs;0,NV001,Ordovician,chert,shale
+23021913.51173327,0.3118168532,3305,3201,Os,Os;0,NVOs;0,NV001,Ordovician,chert,shale
+523058.9940684464,0.02892121946,3327,3217,Dc,Dc;0,NVDc;0,NV001,Devonian,dolostone (dolomite),limestone
+312710.2561322132,0.02388947444,3339,3231,Dc,Dc;0,NVDc;0,NV001,Devonian,dolostone (dolomite),limestone
+655014.8528549751,0.03601847393,3377,3270,KJd,KJd;0,NVKJd;0,NV001,Jurassic to Cretaceous,diorite,quartz diorite
+4739914.671037953,0.31480306066,3381,3275,Qa,Qa;0,NVQa;0,NV001,Quaternary,alluvium,mass wasting
+8084361.4397983095,0.38337801061,3382,3276,Qa,Qa;0,NVQa;0,NV001,Quaternary,alluvium,mass wasting
+732995.3433244438,0.04408943557,3384,3280,Os,Os;0,NVOs;0,NV001,Ordovician,chert,shale
+765462.9794637882,0.03777411144,3388,3283,Tr3,Tr3;0,NVTr3;0,NV001,Middle Miocene to Late Miocene,rhyolite,dacite
+1327715.629774938,0.05310628871,3403,3300,Dc,Dc;0,NVDc;0,NV001,Devonian,dolostone (dolomite),limestone
+17324392.604705844,0.30485786448,3417,3312,Tr3,Tr3;0,NVTr3;0,NV001,Middle Miocene to Late Miocene,rhyolite,dacite
+283636.819552031,0.03846906896,3422,3315,Tr3,Tr3;0,NVTr3;0,NV001,Middle Miocene to Late Miocene,rhyolite,dacite
+2380175.338512451,0.06828119431,3425,3316,Dc,Dc;0,NVDc;0,NV001,Devonian,dolostone (dolomite),limestone
+914975.7185364176,0.04671903127,3459,3363,St,St;0,NVSt;0,NV001,Silurian to Early Devonian,limestone,dolostone (dolomite)
+1471911.6986674364,0.05517421326,3465,3370,St,St;0,NVSt;0,NV001,Silurian to Early Devonian,limestone,dolostone (dolomite)
+969530.5351324563,0.04121216741,3486,3383,Dc,Dc;0,NVDc;0,NV001,Devonian,dolostone (dolomite),limestone
+1021359.8049591102,0.04177160387,3490,3389,Dc,Dc;0,NVDc;0,NV001,Devonian,dolostone (dolomite),limestone
+7292901.340861125,0.20824899376,3491,3391,Tr3,Tr3;0,NVTr3;0,NV001,Middle Miocene to Late Miocene,rhyolite,dacite
+7088369.352845111,0.16911300392,3499,3400,St,St;0,NVSt;0,NV001,Silurian to Early Devonian,limestone,dolostone (dolomite)
+3495567.7849427573,0.1198740839,3512,3419,St,St;0,NVSt;0,NV001,Silurian to Early Devonian,limestone,dolostone (dolomite)
+1398516.6325566163,0.0557151711,3517,3420,Qa,Qa;0,NVQa;0,NV001,Quaternary,alluvium,mass wasting
+16295928.31223318,0.21739131548,3526,3426,Oc,Oc;0,NVOc;0,NV001,Ordovician,limestone,dolostone (dolomite)
+902623.6889786002,0.05358510818,3540,3433,Dc,Dc;0,NVDc;0,NV001,Devonian,dolostone (dolomite),limestone
+1029321.8945859232,0.05397850864,3549,3447,St,St;0,NVSt;0,NV001,Silurian to Early Devonian,limestone,dolostone (dolomite)
+902385.5688369639,0.04104477651,3598,3485,Cc,CAc;0,NVCAc;0,NV001,Late Cambrian to Middle Cambrian,limestone,dolostone (dolomite)
+1248470.1595784153,0.05998576043,3607,3496,St,St;0,NVSt;0,NV001,Silurian to Early Devonian,limestone,dolostone (dolomite)
+256193.48154908116,0.0384401232,3624,3514,Cc,CAc;0,NVCAc;0,NV001,Late Cambrian to Middle Cambrian,limestone,dolostone (dolomite)

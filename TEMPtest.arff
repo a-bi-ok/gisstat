@@ -1,0 +1,15 @@
+@relation TEMPtest
+
+@attribute rocktype {chert,limestone,ash-flowtuff,alluvium,dolostone(dolomite),conglomerate,sandstone,rhyolite,diorite}
+@attribute ' size' numeric
+@attribute ' strCount' numeric
+@attribute ' occurrence' {' Au',' null'}
+
+
+@data
+chert,4.990825,15,?
+limestone,13.50555,11,?
+ash-flowtuff,5.824861,2,?
+sandstone,6.795855,6,?
+rhyolite,8.994119,1,?
+diorite,12.353074,0,?
